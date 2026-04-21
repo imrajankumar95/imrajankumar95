@@ -70,9 +70,9 @@ Courses: Azure Administrator · Azure Architect · Azure Security · AWS CCP · 
 
 ## 🤝 Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/imrajankumar95)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajankumar95/)
 - 📧 rajankumar656@gmail.com
-- 🌐 [Portfolio project — live](https://ashy-bay-0d76ae90f.7.azurestaticapps.net)
+- 🌐 [Portfolio project — live](https://imrajankumar95.github.io/cloud-portfolio)
 
 **Open to Cloud / DevOps / Azure Administrator co-op and entry-level roles in Toronto + Remote Canada.**
 
