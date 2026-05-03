@@ -1,6 +1,6 @@
 # Hi, I'm Rajan 👋
 
-**Cloud & DevOps Engineer (in training)** based in **Toronto, ON** 🇨🇦
+**Cloud & DevOps Engineer (in training)** based in **Toronto, ON** CA
 Building toward a Cloud/DevOps co-op or entry-level role by **Fall 2026**.
 
 ---
