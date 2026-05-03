@@ -39,8 +39,12 @@ Designed and deployed a secure-by-default Microsoft 365 E3 environment for a 300
 `M365 E3 · Entra ID · Defender · SharePoint · Exchange Online · Purview · Viva Engage`
 
 ### 🔄 [the-migration-arc](https://github.com/imrajankumar95/the-migration-arc) - In progress
-Flask API → Docker → GitHub Actions → Azure App Service. Production-style CI/CD pipeline with automated tests.
-`Flask · Docker · GitHub Actions · Azure App Service`
+Multi-cloud container pipeline: Docker → AWS ECR/ECS/EKS + Azure ACR/AKS, provisioned with Terraform. CI/CD via Azure DevOps. Local dev with Vagrant + K3s.
+`Terraform · Docker · AWS · Azure · Kubernetes`
+
+### 📚 [dsa-learning-journey](https://github.com/imrajankumar95/dsa-learning-journey) - Active
+200+ problems from 100xSchool bootcamp. C++. Pattern-tagged by topic.
+`C++ · Algorithms · Data Structures · Codeforces`
 
 ### 📊 [infrastructure-monitoring](https://github.com/imrajankumar95/infrastructure-monitoring) - In progress
 Prometheus + Grafana observability stack. 4 golden signals, Terraform-provisioned.
