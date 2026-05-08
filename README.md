@@ -8,7 +8,7 @@ Building toward a Cloud/DevOps co-op or entry-level role by **Fall 2026**.
 ## 🎯 What I'm focused on right now
 
 - **AZ-104** - Azure Administrator certification (target: June 2026)
-- **AB-900** - Microsoft Azure Fundamentals (target: May 2026)
+- AB-900 - Microsoft Azure Fundamentals ✅ Passed
 - **Shipping portfolio projects** - one at a time, deployed + documented
 - **Learning in public** - every build, every bug, every fix on GitHub + LinkedIn
 
@@ -16,14 +16,14 @@ Building toward a Cloud/DevOps co-op or entry-level role by **Fall 2026**.
 
 ## 🛠️ Tech I work with
 
-**Cloud:** Azure (VMs · Static Web Apps · App Service · Storage · Networking)
+**Cloud:** Azure (VMs · Static Web Apps · App Service · Storage · Networking) · AWS (ECR · ECS Fargate · EKS)
 **Microsoft 365:** Entra ID · Defender for O365 · SharePoint · Exchange · Purview
-**Containers:** Docker · Docker Hub · Docker Compose
+**Containers:** Docker · Docker Hub · Docker Compose · Kubernetes (EKS) · kubectl · eksctl
 **CI/CD:** GitHub Actions · YAML pipelines
 **IaC:** Terraform (learning)
 **OS/Scripting:** Linux (Ubuntu) · WSL2 · Bash · Python · SQL
 **Monitoring:** Prometheus · Grafana (in progress)
-**Currently learning:** Kubernetes · Go · AWS
+**Currently learning:** Go · Terraform · AZ-104 prep
 
 ---
 
@@ -38,9 +38,9 @@ From blank Windows laptop → Nginx → Docker → Docker Hub → Azure Static W
 Designed and deployed a secure-by-default Microsoft 365 E3 environment for a 300-user mid-sized organization. Identity, security, collaboration, and compliance - end-to-end. Includes architecture, E3-vs-E5 license tradeoffs, and governance docs.
 `M365 E3 · Entra ID · Defender · SharePoint · Exchange Online · Purview · Viva Engage`
 
-### 🔄 [the-migration-arc](https://github.com/imrajankumar95/the-migration-arc) - In progress
-Multi-cloud container pipeline: Docker → AWS ECR/ECS/EKS + Azure ACR/AKS, provisioned with Terraform. CI/CD via Azure DevOps. Local dev with Vagrant + K3s.
-`Terraform · Docker · AWS · Azure · Kubernetes`
+### 🔄 [the-migration-arc](https://github.com/imrajankumar95/the-migration-arc) - LIVE (Phase 1-3 Complete)
+Multi-cloud container pipeline: Docker → AWS ECR → ECS (Fargate) → EKS (Kubernetes). Phase 1-3 complete, Phase 4 (Azure AKS) planned. Includes CI/CD, deployment evidence, issues & solutions docs.
+`Docker · AWS ECR · ECS Fargate · EKS · kubectl · GitHub Actions`
 
 ### 📚 [dsa-learning-journey](https://github.com/imrajankumar95/dsa-learning-journey) - Active
 200+ problems from 100xSchool bootcamp. C++. Pattern-tagged by topic.
