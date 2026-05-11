@@ -1,14 +1,14 @@
 # Hi, I'm Rajan 👋
 
 **Cloud & DevOps Engineer (in training)** based in **Toronto, ON** CA
-Building toward a Cloud/DevOps co-op or entry-level role by **Fall 2026**.
+Building toward a Cloud/DevOps co-op role by **Fall 2026**.
 
 ---
 
 ## 🎯 What I'm focused on right now
 
 - **AZ-104** - Azure Administrator certification (target: June 2026)
-- AB-900 - Microsoft Azure Fundamentals ✅ Passed
+- AB-900 - Microsoft 365 Copilot and Agent Administration Fundamentals ✅ Passed
 - **Shipping portfolio projects** - one at a time, deployed + documented
 - **Learning in public** - every build, every bug, every fix on GitHub + LinkedIn
 
@@ -84,7 +84,7 @@ Courses: Azure Administrator · Azure Architect · Azure Security · AWS CCP · 
 - 📧 [rajankumar656@gmail.com](mailto:rajankumar656@gmail.com)
 - 🌐 [Portfolio project - live](https://imrajankumar95.github.io/cloud-portfolio)
 
-**Open to Cloud / DevOps / Azure Administrator / M365 Administrator co-op and entry-level roles in Toronto + Remote Canada.**
+**Open to Cloud / DevOps / Azure Administrator / M365 Administrator co-op roles in Toronto + Remote Canada.**
 
 ---
 
