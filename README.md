@@ -9,6 +9,7 @@ Building toward a Cloud/DevOps co-op role by **Fall 2026**.
 
 - **AZ-104** - Azure Administrator certification (target: June 2026)
 - AB-900 - Microsoft 365 Copilot and Agent Administration Fundamentals ✅ Passed
+- AZ-900 - Microsoft Azure Fundamentals ✅ Passed
 - **Shipping portfolio projects** - one at a time, deployed + documented
 - **Learning in public** - every build, every bug, every fix on GitHub + LinkedIn
 
@@ -57,7 +58,7 @@ Azure Kubernetes Service with Terraform, Prometheus monitoring, full CI/CD pipel
 
 ## 💼 Background
 
-**17 months** as a Data Quality Engineer in a financial institution - led CRM migration from Oracle → SQL Server → Salesforce. Hands-on with SQL, Python, ETL, and real production data at scale.
+**~2 years** as a Data Quality Engineer in a financial institution - led CRM migration from Oracle → SQL Server → Salesforce. Hands-on with SQL, Python, ETL, and real production data at scale.
 
 Now transitioning that infrastructure mindset into Cloud & DevOps.
 
