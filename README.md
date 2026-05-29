@@ -1,50 +1,53 @@
 # Hi, I'm Rajan 👋
 
-**Cloud & DevOps Engineer (in training)** based in **Toronto, ON** 🇨🇦
-Building toward a Cloud/DevOps co-op or entry-level role by **September 2026**.
+**Cloud & DevOps Engineer (in training)** based in **Toronto, ON** CA
+Building toward a Cloud/DevOps co-op role by **Fall 2026**.
 
 ---
 
 ## 🎯 What I'm focused on right now
 
 - **AZ-104** - Azure Administrator certification (target: June 2026)
-- **DSA** - 200+ problems solved on Codeforces, migrating to GitHub with deep write-ups
+- AB-900 - Microsoft 365 Copilot and Agent Administration Fundamentals ✅ Passed
+- AZ-900 - Microsoft Azure Fundamentals ✅ Passed
 - **Shipping portfolio projects** - one at a time, deployed + documented
 - **Learning in public** - every build, every bug, every fix on GitHub + LinkedIn
 
 ---
 
-## 🏅 Certifications
-
-- **AZ-900** - Microsoft Azure Fundamentals (May 2026)
-- **AB-900** - Microsoft 365 Copilot & Agent Administration Fundamentals (May 2026)
-- **AZ-104** - Azure Administrator (in progress)
-
----
-
 ## 🛠️ Tech I work with
 
-**Cloud:** Azure (AKS · ACR · Static Web Apps · App Service) · AWS (ECS · EKS · ECR · Fargate)
-**Containers & Orchestration:** Docker · Kubernetes · kubectl · eksctl
+**Cloud:** Azure (VMs · Static Web Apps · App Service · Storage · Networking) · AWS (ECR · ECS Fargate · EKS)
+**Microsoft 365:** Entra ID · Defender for O365 · SharePoint · Exchange · Purview
+**Containers:** Docker · Docker Hub · Docker Compose · Kubernetes (EKS) · kubectl · eksctl
 **CI/CD:** GitHub Actions · YAML pipelines
 **IaC:** Terraform (learning)
-**OS/Scripting:** Linux (Ubuntu) · WSL2 · Bash · Python · Go · SQL
+**OS/Scripting:** Linux (Ubuntu) · WSL2 · Bash · Python · SQL
 **Monitoring:** Prometheus · Grafana (in progress)
+**Currently learning:** Go · Terraform · AZ-104 prep
 
 ---
 
-## 🚀 Projects
-
-### ✅ [the-migration-arc](https://github.com/imrajankumar95/the-migration-arc) - COMPLETE
-Multi-cloud Kubernetes deployment across 4 phases: Local Docker → AWS ECS (Fargate) → AWS EKS → Azure AKS. CI/CD pipelines with GitHub Actions pushing to both GHCR and Azure ACR.
-`Docker · AWS ECR/ECS/EKS · Azure ACR/AKS · kubectl · GitHub Actions`
+## 🚀 Live Projects
 
 ### 🌐 [local-to-cloud-starter](https://github.com/imrajankumar95/local-to-cloud-starter) - LIVE
 **[ashy-bay-0d76ae90f.7.azurestaticapps.net](https://ashy-bay-0d76ae90f.7.azurestaticapps.net)**
-From blank Windows laptop → Nginx → Docker → Docker Hub → Azure Static Web Apps with GitHub Actions CI/CD.
+From blank Windows laptop → Nginx → Docker → Docker Hub → Azure Static Web Apps with GitHub Actions CI/CD. The full local-to-cloud migration arc.
 `WSL2 · Docker · Azure Static Web Apps · GitHub Actions`
 
-### 📊 [infrastructure-monitoring](https://github.com/imrajankumar95/infrastructure-monitoring) - Planned
+### 🏢 [microsoft-365-enterprise-rollout](https://github.com/imrajankumar95/microsoft-365-enterprise-rollout) - DOCUMENTED
+Designed and deployed a secure-by-default Microsoft 365 E3 environment for a 300-user mid-sized organization. Identity, security, collaboration, and compliance - end-to-end. Includes architecture, E3-vs-E5 license tradeoffs, and governance docs.
+`M365 E3 · Entra ID · Defender · SharePoint · Exchange Online · Purview · Viva Engage`
+
+### 🔄 [the-migration-arc](https://github.com/imrajankumar95/the-migration-arc) - LIVE (Phase 1-3 Complete)
+Multi-cloud container pipeline: Docker → AWS ECR → ECS (Fargate) → EKS (Kubernetes). Phase 1-3 complete, Phase 4 (Azure AKS) planned. Includes CI/CD, deployment evidence, issues & solutions docs.
+`Docker · AWS ECR · ECS Fargate · EKS · kubectl · GitHub Actions`
+
+### 📚 [dsa-learning-journey](https://github.com/imrajankumar95/dsa-learning-journey) - Active
+200+ problems from 100xSchool bootcamp. C++. Pattern-tagged by topic.
+`C++ · Algorithms · Data Structures · Codeforces`
+
+### 📊 [infrastructure-monitoring](https://github.com/imrajankumar95/infrastructure-monitoring) - In progress
 Prometheus + Grafana observability stack. 4 golden signals, Terraform-provisioned.
 `Prometheus · Grafana · Terraform · Docker Compose`
 
@@ -55,7 +58,7 @@ Azure Kubernetes Service with Terraform, Prometheus monitoring, full CI/CD pipel
 
 ## 💼 Background
 
-**~2 years** as a Data Quality Engineer at a major financial institution - led CRM migration from Oracle → SQL Server → Salesforce. Hands-on with SQL, Python, ETL, and real production data at scale.
+**~2 years** as a Data Quality Engineer in a financial institution - led CRM migration from Oracle → SQL Server → Salesforce. Hands-on with SQL, Python, ETL, and real production data at scale.
 
 Now transitioning that infrastructure mindset into Cloud & DevOps.
 
@@ -78,11 +81,11 @@ Courses: Azure Administrator · Azure Architect · Azure Security · AWS CCP · 
 
 ## 🤝 Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/imrajankumar95)
-- 📧 rajankumar656@gmail.com
-- 🌐 [Portfolio site - live](https://ashy-bay-0d76ae90f.7.azurestaticapps.net)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajankumar95/)
+- 📧 [rajankumar656@gmail.com](mailto:rajankumar656@gmail.com)
+- 🌐 [Portfolio project - live](https://imrajankumar95.github.io/cloud-portfolio)
 
-**Open to Cloud / DevOps / Azure Administrator co-op and entry-level roles in Toronto + Remote Canada.**
+**Open to Cloud / DevOps / Azure Administrator / M365 Administrator co-op roles in Toronto + Remote Canada.**
 
 ---
 
