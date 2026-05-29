@@ -17,7 +17,7 @@ Building toward a Cloud/DevOps co-op role by **Fall 2026**.
 
 ## 🛠️ Tech I work with
 
-**Cloud:** Azure (VMs · Static Web Apps · App Service · Storage · Networking) · AWS (ECR · ECS Fargate · EKS)
+**Cloud:** Azure (AKS · ACR · VMs · Static Web Apps · App Service) · AWS (ECR · ECS Fargate · EKS)
 **Microsoft 365:** Entra ID · Defender for O365 · SharePoint · Exchange · Purview
 **Containers:** Docker · Docker Hub · Docker Compose · Kubernetes (EKS) · kubectl · eksctl
 **CI/CD:** GitHub Actions · YAML pipelines
@@ -39,9 +39,9 @@ From blank Windows laptop → Nginx → Docker → Docker Hub → Azure Static W
 Designed and deployed a secure-by-default Microsoft 365 E3 environment for a 300-user mid-sized organization. Identity, security, collaboration, and compliance - end-to-end. Includes architecture, E3-vs-E5 license tradeoffs, and governance docs.
 `M365 E3 · Entra ID · Defender · SharePoint · Exchange Online · Purview · Viva Engage`
 
-### 🔄 [the-migration-arc](https://github.com/imrajankumar95/the-migration-arc) - LIVE (Phase 1-3 Complete)
-Multi-cloud container pipeline: Docker → AWS ECR → ECS (Fargate) → EKS (Kubernetes). Phase 1-3 complete, Phase 4 (Azure AKS) planned. Includes CI/CD, deployment evidence, issues & solutions docs.
-`Docker · AWS ECR · ECS Fargate · EKS · kubectl · GitHub Actions`
+### ✅ [the-migration-arc](https://github.com/imrajankumar95/the-migration-arc) - COMPLETE (All 4 Phases)
+Multi-cloud Kubernetes deployment: Docker → AWS ECS (Fargate) → AWS EKS → Azure AKS. CI/CD pipelines with GitHub Actions pushing to GHCR and Azure ACR. Deployed, verified, documented, torn down.
+`Docker · AWS ECR/ECS/EKS · Azure ACR/AKS · kubectl · GitHub Actions`
 
 ### 📚 [dsa-learning-journey](https://github.com/imrajankumar95/dsa-learning-journey) - Active
 200+ problems from 100xSchool bootcamp. C++. Pattern-tagged by topic.
