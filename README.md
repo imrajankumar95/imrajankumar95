@@ -1,30 +1,42 @@
 # Hi, I'm Rajan 👋
 
-**Cloud & DevOps Engineer (in training)** based in **Toronto, ON** CA
-Building toward a Cloud/DevOps co-op role by **Fall 2026**.
+**Azure-certified Cloud & DevOps junior** based in **Toronto, ON** 🇨🇦
+**AZ-104 Azure Administrator ✅** · Building toward a Cloud/DevOps co-op for **Fall 2026**.
 
 ---
 
 ## 🎯 What I'm focused on right now
 
-- **AZ-104** - Azure Administrator certification (target: June 2026)
-- AB-900 - Microsoft 365 Copilot and Agent Administration Fundamentals ✅ Passed
-- AZ-900 - Microsoft Azure Fundamentals ✅ Passed
+- **Capstone — k8s-log-explainer:** Kubernetes pod logs → LLM → plain-English incident summaries on AKS
+- **Fall 2026 co-op search** — actively applying, Toronto (financial institutions first)
 - **Shipping portfolio projects** - one at a time, deployed + documented
 - **Learning in public** - every build, every bug, every fix on GitHub + LinkedIn
 
 ---
 
+## 📜 Certifications
+
+| Certification | Status |
+|---|---|
+| **AZ-104 — Azure Administrator Associate** | ✅ Passed Jul 2026 |
+| **DP-203 — Azure Data Engineer Associate** | ✅ Passed |
+| **AZ-900 — Azure Fundamentals** | ✅ Passed |
+| **AB-900 — M365 Copilot & Agent Admin Fundamentals** | ✅ Passed |
+| **Microsoft Applied Skills ×3** — Azure Networking · Azure Monitor · Secure Storage | ✅ Earned |
+
+---
+
 ## 🛠️ Tech I work with
 
-**Cloud:** Azure (AKS · ACR · VMs · Static Web Apps · App Service) · AWS (ECR · ECS Fargate · EKS)
+**Cloud:** Azure (AKS · ACR · VMs · VNets · Static Web Apps · App Service · Key Vault) · AWS (ECR · ECS Fargate · EKS)
 **Microsoft 365:** Entra ID · Defender for O365 · SharePoint · Exchange · Purview
-**Containers:** Docker · Docker Hub · Docker Compose · Kubernetes (EKS) · kubectl · eksctl
+**Containers:** Docker · Docker Hub · Docker Compose · Kubernetes (EKS · AKS) · kubectl · eksctl
 **CI/CD:** GitHub Actions · YAML pipelines
-**IaC:** Terraform (learning)
-**OS/Scripting:** Linux (Ubuntu) · WSL2 · Bash · Python · SQL
-**Monitoring:** Prometheus · Grafana (in progress)
-**Currently learning:** Go · Terraform · AZ-104 prep
+**IaC:** Terraform (capstone in progress)
+**Languages/OS:** Go · Python · SQL · Bash · Linux (Ubuntu) · WSL2
+**Monitoring:** Azure Monitor · Log Analytics · Prometheus · Grafana
+**AI workflow:** Claude Code daily — IaC scaffolding, debugging, docs. I own verification; design calls logged in DECISIONS.md
+**Currently learning:** Terraform · LLM-powered incident tooling · Go HTTP servers
 
 ---
 
@@ -43,22 +55,19 @@ Designed and deployed a secure-by-default Microsoft 365 E3 environment for a 300
 Multi-cloud Kubernetes deployment: Docker → AWS ECS (Fargate) → AWS EKS → Azure AKS. CI/CD pipelines with GitHub Actions pushing to GHCR and Azure ACR. Deployed, verified, documented, torn down.
 `Docker · AWS ECR/ECS/EKS · Azure ACR/AKS · kubectl · GitHub Actions`
 
+### 🤖 k8s-log-explainer - IN PROGRESS (Capstone)
+App on AKS ships pod logs to an LLM API → plain-English incident summaries. Prometheus + Grafana dashboards, Terraform-provisioned, GitHub Actions deploy. Cloud + DevOps + observability + AI in one repo. Link lands with first commit.
+`AKS · LLM API · Prometheus · Grafana · Terraform · GitHub Actions`
+
 ### 📚 [dsa-learning-journey](https://github.com/imrajankumar95/dsa-learning-journey) - Active
-200+ problems from 100xSchool bootcamp. C++. Pattern-tagged by topic.
+240+ problems from 100xSchool bootcamp. C++. Pattern-tagged by topic.
 `C++ · Algorithms · Data Structures · Codeforces`
-
-### 📊 [infrastructure-monitoring](https://github.com/imrajankumar95/infrastructure-monitoring) - In progress
-Prometheus + Grafana observability stack. 4 golden signals, Terraform-provisioned.
-`Prometheus · Grafana · Terraform · Docker Compose`
-
-### 🎓 Capstone (planned) - AKS + Full Stack
-Azure Kubernetes Service with Terraform, Prometheus monitoring, full CI/CD pipeline.
 
 ---
 
 ## 💼 Background
 
-**~2 years** as a Data Quality Engineer in a financial institution - led CRM migration from Oracle → SQL Server → Salesforce. Hands-on with SQL, Python, ETL, and real production data at scale.
+**~2 years** as a Data Quality Engineer at **TD** - led a **3M-record CRM migration** from Oracle → SQL Server → Salesforce. Hands-on with SQL, Python, ETL, and real production data at scale.
 
 Now transitioning that infrastructure mindset into Cloud & DevOps.
 
@@ -67,7 +76,7 @@ Now transitioning that infrastructure mindset into Cloud & DevOps.
 ## 🎓 Currently studying
 
 **George Brown College** - Cloud Computing Technologies (T465) · Graduating 2026
-Courses: Azure Administrator · Azure Architect · Azure Security · AWS CCP · Solutions Architect
+Courses: Azure Administrator · Azure Architect · Azure Security · AWS CCP · Solutions Architect · AWS Security
 
 ---
 
@@ -85,7 +94,7 @@ Courses: Azure Administrator · Azure Architect · Azure Security · AWS CCP · 
 - 📧 [rajankumar656@gmail.com](mailto:rajankumar656@gmail.com)
 - 🌐 [Portfolio project - live](https://imrajankumar95.github.io/cloud-portfolio)
 
-**Open to Cloud / DevOps / Azure Administrator / M365 Administrator co-op roles in Toronto + Remote Canada.**
+**Open to Cloud / DevOps / Azure Administrator / M365 Administrator co-op + junior roles in Toronto + Remote Canada. PR — no sponsorship needed.**
 
 ---
 
