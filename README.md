@@ -7,8 +7,8 @@
 
 ## 🎯 What I'm focused on right now
 
-- **Capstone — k8s-log-explainer:** Kubernetes pod logs → LLM → plain-English incident summaries on AKS
-- **Fall 2026 co-op search** — actively applying, Toronto (financial institutions first)
+- **Capstone - k8s-log-explainer:** Kubernetes pod logs → LLM → plain-English incident summaries on AKS
+- **Fall 2026 co-op search** - actively applying, Toronto
 - **Shipping portfolio projects** - one at a time, deployed + documented
 - **Learning in public** - every build, every bug, every fix on GitHub + LinkedIn
 
@@ -18,11 +18,11 @@
 
 | Certification | Status |
 |---|---|
-| **AZ-104 — Azure Administrator Associate** | ✅ Passed Jul 2026 |
-| **DP-203 — Azure Data Engineer Associate** | ✅ Passed |
-| **AZ-900 — Azure Fundamentals** | ✅ Passed |
-| **AB-900 — M365 Copilot & Agent Admin Fundamentals** | ✅ Passed |
-| **Microsoft Applied Skills ×3** — Azure Networking · Azure Monitor · Secure Storage | ✅ Earned |
+| **AZ-104 - Azure Administrator Associate** | ✅ Passed |
+| **DP-203 - Azure Data Engineer Associate** | ✅ Passed |
+| **AZ-900 - Azure Fundamentals** | ✅ Passed |
+| **AB-900 - M365 Copilot & Agent Admin Fundamentals** | ✅ Passed |
+| **Microsoft Applied Skills ×3** - Azure Networking · Azure Monitor · Secure Storage | ✅ Earned |
 
 ---
 
@@ -35,7 +35,7 @@
 **IaC:** Terraform (capstone in progress)
 **Languages/OS:** Go · Python · SQL · Bash · Linux (Ubuntu) · WSL2
 **Monitoring:** Azure Monitor · Log Analytics · Prometheus · Grafana
-**AI workflow:** Claude Code daily — IaC scaffolding, debugging, docs. I own verification; design calls logged in DECISIONS.md
+**AI workflow:** Claude Code daily - IaC scaffolding, debugging, docs. I own verification; design calls logged in DECISIONS.md
 **Currently learning:** Terraform · LLM-powered incident tooling · Go HTTP servers
 
 ---
@@ -94,7 +94,7 @@ Courses: Azure Administrator · Azure Architect · Azure Security · AWS CCP · 
 - 📧 [rajankumar656@gmail.com](mailto:rajankumar656@gmail.com)
 - 🌐 [Portfolio project - live](https://imrajankumar95.github.io/cloud-portfolio)
 
-**Open to Cloud / DevOps / Azure Administrator / M365 Administrator co-op + junior roles in Toronto + Remote Canada. PR — no sponsorship needed.**
+**Open to Cloud / DevOps / Azure Administrator / M365 Administrator co-op + junior roles in Toronto + Remote Canada. PR - no sponsorship needed.**
 
 ---
 
