@@ -1,6 +1,6 @@
 # Hi, I'm Rajan 👋
 
-**Azure-certified Cloud & DevOps junior** based in **Toronto, ON** 🇨🇦
+**Azure-certified Cloud & DevOps junior** based in **Toronto, ON**
 **AZ-104 Azure Administrator ✅** · Building toward a Cloud/DevOps co-op for **Fall 2026**.
 
 ---
